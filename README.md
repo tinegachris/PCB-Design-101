@@ -18,8 +18,8 @@
 **This presentation was made possible thanks to the [JKUAT Society of Engineering Students (SES)](https://github.com/jkuatses) and [Chrispine Tinega](https://github.com/tineachris).**
 
 ## Objective
-The presenation was based on the theme of the JKUAT SES Tech Week 2021 - **Overcoming Today's Challenge For A Better Tomorrow.**
-It was meant to challenge students and technology enthusiasts to develop the skill of electronic design using one of the most sophisticated EDA tool - Altium® Designer.
+This presenation, done on September 16, 2021, was based on the theme of the JKUAT SES Tech Week 2021 - **Overcoming Today's Challenge For A Better Tomorrow.**
+It was meant to challenge students and technology enthusiasts to develop the skill of electronic design using one of the most sophisticated EDA tool - Altium® Designer to solve real-world problems.
 
 ## Scope
 The presentation covered, but was not limited to, the following topics:
