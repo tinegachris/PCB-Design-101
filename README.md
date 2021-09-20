@@ -13,7 +13,6 @@
 >with Altium® Designer
 ### JKUAT SES Tech Week 2021
 ![cover](https://user-images.githubusercontent.com/72353423/133753222-adef16d7-4fae-4be3-bf4b-286aa38575df.jpeg)
->Project coverphoto
 
 **This presentation was made possible thanks to the [JKUAT Society of Engineering Students (SES)](https://github.com/jkuatses) and [Chrispine Tinega](https://github.com/tineachris).**
 
@@ -38,6 +37,7 @@ The presentation covered, but was not limited to, the following topics:
 > - PCB Libraries [Downloads](http://www.pcblibraries.com/downloads)
 > - [Predictable Designs](https://predictabledesigns.com/)
 > - [Altium® Designer Documentation](https://www.altium.com/documentation/altium-designer/the-altium-designer-environment-ad?version=20.2)
+> - [Altium Academy Channel](https://www.youtube.com/channel/UCWLoHp3WJG_ats8waVCu7Mw)
 
 ## **Disclaimer**
 >The contents of the presentation and materials used were sourced through extensive research. © All Rights and Credits Reserved To The Respective Owner(s). Does not intend to infringe copyright.
